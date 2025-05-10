@@ -1,0 +1,64 @@
+[
+    {
+      "make": "Audi",
+      "models": ["A1", "A2", "A3", "A4", "A5", "A6", "A7", "A8", "Q2", "Q3", "Q5", "Q7", "Q8", "TT", "R8", "e-tron", "e-tron GT"]
+    },
+    {
+      "make": "BMW",
+      "models": ["1 Series", "2 Series", "3 Series", "4 Series", "5 Series", "6 Series", "7 Series", "8 Series", "X1", "X2", "X3", "X4", "X5", "X6", "X7", "Z4", "Z8", "i3", "i8", "i4", "iX", "XM"]
+    },
+    {
+      "make": "Chevrolet",
+      "models": ["Aveo", "Bolt EV", "Camaro", "Captiva", "Cobalt", "Corvette", "Cruze", "Equinox", "Impala", "Malibu", "Orlando", "Silverado", "Spark", "Suburban", "Tahoe", "TrailBlazer", "Traverse", "Volt"]
+    },
+    {
+      "make": "Citroën",
+      "models": ["C1", "C2", "C3", "C3 Aircross", "C3 Picasso", "C4", "C4 Cactus", "C4 Picasso", "C5", "C6", "C8", "C-Crosser", "C-Elysée", "DS3", "DS4", "DS5"]
+    },
+    {
+      "make": "Fiat",
+      "models": ["124 Spider", "500", "500L", "500X", "Albea", "Bravo", "Croma", "Doblo", "Freemont", "Linea", "Multipla", "Panda", "Punto", "Stilo", "Tipo"]
+    },
+    {
+      "make": "Ford",
+      "models": ["Bronco", "Bronco Sport", "C-Max", "EcoSport", "Edge", "Escape", "Everest", "Expedition", "Explorer", "F-150", "Fiesta", "Focus", "Fusion", "Galaxy", "GT", "Kuga", "Mondeo", "Mustang", "Ranger", "S-Max", "Taurus", "Transit"]
+    },
+    {
+      "make": "Honda",
+      "models": ["Accord", "Airwave", "Amaze", "Avancier", "BR-V", "Brio", "City", "Civic", "Clarity", "CR-V", "CR-Z", "Crosstour", "Element", "Fit", "Freed", "HR-V", "Insight", "Integra", "Jazz", "Legend", "N-Box", "N-One", "N-WGN", "Odyssey", "Passport", "Pilot", "Ridgeline", "S2000", "Stepwgn", "Zest", "ZR-V"]
+    },
+    {
+      "make": "Hyundai",
+      "models": ["Accent", "Azera", "Creta", "Elantra", "Equus", "Genesis", "Genesis Coupe", "Grandeur", "i10", "i20", "i30", "i40", "Ioniq", "Ioniq 5", "Ioniq 6", "Kona", "Nexo", "Palisade", "Santa Fe", "Sonata", "Terracan", "Tucson", "Veloster", "Venue"]
+    },
+    {
+      "make": "Kia",
+      "models": ["Carnival", "Ceed", "Cerato", "Cadenza", "K5", "K7", "K9", "Mohave", "Niro", "Optima", "Picanto", "Rio", "Sorento", "Soul", "Sportage", "Stinger", "Telluride"]
+    },
+    {
+      "make": "Lada",
+      "models": ["Granta", "Kalina", "Largus", "Niva Legend", "Niva Travel", "Priora", "Vesta", "XRAY"]
+    },
+    {
+      "make": "Lexus",
+      "models": ["CT", "ES", "GS", "GX", "HS", "IS", "LC", "LFA", "LM", "LS", "LX", "NX", "RC", "RX", "RZ", "SC", "UX"]
+    },
+    {
+      "make": "Mazda",
+      "models": ["2", "3", "5", "6", "8", "CX-3", "CX-30", "CX-4", "CX-5", "CX-7", "CX-8", "CX-9", "CX-50", "CX-60", "CX-90", "MX-5", "MX-30", "RX-7", "RX-8", "Tribute"]
+    },
+    {
+      "make": "Mercedes-Benz",
+      "models": ["A-Class", "B-Class", "C-Class", "CL-Class", "CLA", "CLK", "CLS", "E-Class", "G-Class", "GLA", "GLB", "GLC", "GLE", "GLK", "GLS", "M-Class", "R-Class", "S-Class", "SL", "SLK", "SLC", "SLR McLaren", "SLS AMG", "AMG GT"]
+    },
+    {
+      "make": "Mitsubishi",
+      "models": ["ASX", "Colt", "Eclipse", "Eclipse Cross", "Endeavor", "Galant", "Grandis", "i-MiEV", "L200", "Lancer", "Lancer Evolution", "Mirage", "Outlander", "Pajero", "Pajero Sport", "Space Star", "Xpander"]
+    },
+    {
+      "make": "Nissan",
+      "models": ["350Z", "370Z", "Almera", "Altima", "Armada", "Cube", "Frontier", "Fuga", "GT-R", "Juke", "Kicks", "Leaf", "Maxima", "Micra", "Murano", "Navara", "Note", "NP200", "Pathfinder", "Patrol", "Qashqai", "Quest", "Rogue", "Sentra", "Silvia", "Skyline", "Teana", "Terrano", "Tiida", "Titan", "Versa", "X-Trail", "Xterra"]
+    }
+    // Продолжение следует (ограничение по длине текста)
+  ]
+  
